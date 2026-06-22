@@ -1,2 +1,2 @@
-Premier cours GitHub
+Premier cours GitHub DevOps
 
